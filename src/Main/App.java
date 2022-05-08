@@ -9,7 +9,7 @@ import Cuentas.CuentaStandard;
 import java.io.*;
 import java.util.Calendar;
 import java.util.Scanner;
-
+//Proyecto Sincronizado
 /**
  * <p>Clase de la <b>APLICACION</b> .</p>
  * @author <b>Joaquin Moreno Sanchez</b>
